@@ -1,4 +1,4 @@
 # CMS with Ruby
-This repository will cater to the Content Management System domain.
-Language used is Ruby.
-Framework is Ruby on rails.
+This repository will cater to the Content Management System domain.<br>
+Language used is `Ruby`.<br>
+Framework is `Ruby on Rails`.<br>
